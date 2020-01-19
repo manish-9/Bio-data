@@ -1,0 +1,18 @@
+body
+{
+    background-color: #effcef;
+    font-stretch: 50%;
+}
+
+hr
+{
+    border-width: thick;
+    border-style: dotted none none none;
+    color: #66BFBF;
+    width:5%
+}
+
+h1,h2,h3
+{
+    color: #192965;
+}
